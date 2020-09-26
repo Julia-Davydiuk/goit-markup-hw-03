@@ -61,8 +61,8 @@ img {
 /*=========== END COMPONENTS===========*/
 
 /*===========HEADER===========*/
-.header {
-  padding: 25px 0;
+.container.header {
+  padding: 24px 215px 25px;
 }
 
 .header .container {
