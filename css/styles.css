@@ -239,7 +239,7 @@ img {
 
 /*===========TEAM===========*/
 .container-description {
-  padding: 30px 50px;
+  padding: 30px 40px;
 }
 
 .team-list {
@@ -293,7 +293,7 @@ img {
 .footer {
   background-color: var(--background-secondary);
   padding-top: 60px;
-  padding-bottom: 39px;
+  padding-bottom: 60px;
 }
 
 .contact-link:hover,

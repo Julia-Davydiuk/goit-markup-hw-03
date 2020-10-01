@@ -137,15 +137,15 @@ img {
 /*===========END HEADER===========*/
 
 /*===========BUTTON===========*/
-.container.main {
+.our-projects {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
 .our-projects-list {
   display: flex;
+  justify-content: center;
   margin: 0 auto;
-  max-width: 630px;
   margin-bottom: 50px;
 }
 
@@ -180,6 +180,10 @@ img {
 /*===========END BUTTON===========*/
 
 /*===========ALL PROJECTS===========*/
+.projects-deskription {
+  padding: 20px;
+}
+
 .projects-list {
   display: flex;
   flex-wrap: wrap;
@@ -204,11 +208,6 @@ img {
 
 .projects-list-item .projects-title {
   margin-bottom: 4px;
-}
-
-.projects-list-item .projects-title,
-.projects-list-item .description {
-  margin: 20px;
 }
 
 .projects-title {
@@ -236,7 +235,7 @@ img {
 .footer {
   background-color: var(--background-secondary);
   padding-top: 60px;
-  padding-bottom: 39px;
+  padding-bottom: 60px;
 }
 
 .contact-link:hover,
